@@ -22,4 +22,4 @@ services:
   - mongodb
 
 env:
-  - DB=test TEST_SMTP_USERNAME=surelia.web.client@gmail.com TEST_SMTP_PASSWORD=katasandisurelia
+  - DB=test TEST_SMTP_USERNAME=ut.surelia@gmail.com TEST_SMTP_PASSWORD=cangpanah
